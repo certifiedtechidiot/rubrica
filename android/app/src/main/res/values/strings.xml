@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Rubrica</string>
+    <string name="title_activity_main">Rubrica</string>
+    <string name="package_name">in.rubrica.app</string>
+    <string name="custom_url_scheme">in.rubrica.app</string>
+</resources>
