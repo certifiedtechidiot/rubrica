@@ -2,7 +2,10 @@
 
 > **Physical Hardware Subsystem for Rubrica Automated Exam Ingestion**  
 > **Designed & Fabricated by**: Rehan Khan ([@certifiedtechidiot](https://github.com/certifiedtechidiot))  
-> **Fabrication Fleet**: Anycubic Kobra Neo 2 (Direct-Drive High-Speed 3D Printer)
+> **Fabrication Fleet**: Anycubic Kobra Neo 2 (Direct-Drive High-Speed 3D Printer)  
+> 🎥 **Live Machine Operation Demonstration**: [Watch on YouTube (youtu.be/zfYp0oZAK9k)](https://youtu.be/zfYp0oZAK9k)
+
+[![CoreXY Scanner Machine Video Demo](https://img.youtube.com/vi/zfYp0oZAK9k/0.jpg)](https://youtu.be/zfYp0oZAK9k)
 
 ---
 

@@ -6,13 +6,14 @@
 [![Live Web Application](https://img.shields.io/badge/Web_App-Live_on_rubrica.in-059669?style=for-the-badge&logo=vercel)](https://rubrica.in/)
 [![Android Native APK](https://img.shields.io/badge/Android_APK-Direct_Download-E11D48?style=for-the-badge&logo=android)](https://certifiedtechidiot.github.io/rubrica-app/rubrica.apk)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-certifiedtechidiot/rubrica-181717?style=for-the-badge&logo=github)](https://github.com/certifiedtechidiot/rubrica)
-[![Demonstration Video](https://img.shields.io/badge/YouTube-Video_Walkthrough-FF0000?style=for-the-badge&logo=youtube)]([UNLISTED_YOUTUBE_DEMO_LINK])
+[![Scanner Machine Demo](https://img.shields.io/badge/YouTube-Scanner_Demo-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/zfYp0oZAK9k)
 
 ---
 
 ## 📌 Project Credentials & Author
 - **Lead System Architect & Developer**: Rehan Khan ([@certifiedtechidiot](https://github.com/certifiedtechidiot))
 - **Official Production Domain**: [https://rubrica.in](https://rubrica.in/)
+- **CoreXY Paper Scanner Video Demo**: [Watch on YouTube (youtu.be/zfYp0oZAK9k)](https://youtu.be/zfYp0oZAK9k)
 - **Target Competition Tracks**: 
   - CBSE Regional & National Science Project Fair 2026
   - Startup India National Startup Awards 6.0 (NSA 2026) — *Student Innovator / Aspiring Entrepreneur Award (Young Changemaker)*
